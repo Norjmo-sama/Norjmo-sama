@@ -2,5 +2,5 @@
 
 <h2> Some Tools I Have Used and Learned</h2>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="45" height="45"/>
   </p>
