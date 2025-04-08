@@ -1,5 +1,5 @@
-<p align="right">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:8B0000,100:a82da8&text=Welcome!&textBg=false&section=header&stroke=880808"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:8B0000,100:a82da8&text=Welcome!&textBg=false&section=header&fontColor=FFFFFF"/>
 </p>
 
 <h1>Hi, I’m Molly Norman!</h1>
@@ -30,6 +30,11 @@
 <h3>Tools</h3>
 <img src="https://skillicons.dev/icons?i=nodejs,github,figma,raspberrypi" alt="Tools" />
 
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:8B0000,100:a82da8&text=Thank%20You&textBg=false&section=footer&stroke=880808"/>
+<h2>Projects</h2>
+<p>
+  <li>Secure Software Haven - CLIENT-IOSLessons-SDC</li>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:8B0000,100:a82da8&text=Thank%20You&textBg=false&section=footer&fontColor=FFFFFF"/>
 </p>
