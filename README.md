@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=50&color=gradient&textBg=false&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:8B0000,100:a82da8&text=Welcome!&textBg=false&section=header&stroke=880808"/>
 </p>
 
 <h1>Hi, I’m Molly Norman!</h1>
@@ -31,5 +31,5 @@
 <img src="https://skillicons.dev/icons?i=nodejs,github,figma,raspberrypi" alt="Tools" />
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=50&color=gradient&textBg=false&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:8B0000,100:a82da8&text=Thank%20You&textBg=false&section=footer&stroke=880808"/>
 </p>
